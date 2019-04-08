@@ -26,7 +26,6 @@
     "engines": {
         "ghost": ">=2.0.0",
         "ghost-api": "v2"
-        "node": ">= 6"
     },
     "license": "MIT",
     "config": {
